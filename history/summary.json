@@ -6,7 +6,7 @@
     "slug": "home-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,24 +15,26 @@
     "timeWeek": 238,
     "timeMonth": 238,
     "timeYear": 238,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Forgejo",
     "url": "https://git.project516.dev",
     "icon": "https://icons.duckduckgo.com/ip3/git.project516.dev.ico",
     "slug": "forgejo",
-    "status": "up",
-    "uptime": "34.98%",
+    "status": "down",
+    "uptime": "35.03%",
     "uptimeDay": "67.23%",
-    "uptimeWeek": "34.98%",
-    "uptimeMonth": "34.98%",
-    "uptimeYear": "34.98%",
-    "time": 209,
-    "timeDay": 255,
-    "timeWeek": 209,
-    "timeMonth": 209,
-    "timeYear": 209,
+    "uptimeWeek": "35.03%",
+    "uptimeMonth": "35.03%",
+    "uptimeYear": "35.03%",
+    "time": 207,
+    "timeDay": 241,
+    "timeWeek": 207,
+    "timeMonth": 207,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2025-11-18": 472,
       "2025-11-17": 468,
@@ -48,17 +50,19 @@
     "url": "https://titledgames.project516.dev",
     "icon": "https://icons.duckduckgo.com/ip3/titledgames.project516.dev.ico",
     "slug": "titled-games-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 135,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 193,
+    "timeDay": 122,
+    "timeWeek": 193,
+    "timeMonth": 193,
+    "timeYear": 193,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
