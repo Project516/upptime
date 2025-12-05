@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: Home Page
     url: https://project516.dev
-  - name: Forgejo
-    url: https://git.project516.dev
+  - name: Tor Browser
+    url: https://tor.project516.dev
   - name: Titled Games Website
     url: https://titledgames.project516.dev
 status-website:
